@@ -11,6 +11,8 @@ En el marco de este propósito y su materialización como proyecto de emprendimi
 
 
 
+## Formulación general
+
 ### **— Definiciones clave**
 A continuación se presentan las definiciones fundamentales que facilitan el entendimiento de este proyecto... 
 
