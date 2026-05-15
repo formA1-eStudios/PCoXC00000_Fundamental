@@ -44,4 +44,4 @@ Con base en ellos, se ha estructurado de forma global al proyecto como se muestr
 
 
 ## VINCÚLATE
-Si deseas conocer más acerca de esta inicativa y participar activamente de su desarrollo, ingresa al repositorio y busca los documentos correspondientes; también puedes consultar el portal web del proyecto y contactárnos directamente.
+Ingresa al repositorio y consulta los documentos del proyecto para conocer más acerca de esta iniciativa, así como para participar activamente de su desarrollo. Consulta el portal web del proyecto y contácta a sus propmotores para vincularte directamente.
