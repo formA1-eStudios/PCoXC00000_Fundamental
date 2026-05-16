@@ -1,7 +1,14 @@
+<<<<<<< Updated upstream
 # Proyecto Fundamental 
 **(A1_PCoSA00000)**
 
  Este proyecto fundamental de emprendimiento surge a partir del propósito profesional de su fundador, el cual es “Construir BienEstar™ integral de forma colectiva con clientes, aliados, asociados y colaboradores para mejorar nuestras vidas y extender sus beneficios a la sociedad”. Consiste en la creación, desarrollo y operación de un conjunto de empresas que permitan, faciliten y coordinen la realización de actividades antrópicas, tanto económicas como de otras dimensiones de la sociedad humana, mediante las que se pueda fomentar, promover y aportar al cumplimiento de los objetivos del proyecto, en línea con los Objetivos de Desarrollo del Milenio propuestos por la ONU.
+=======
+# Name/Key for Project
+ **(A1_PCCAANNNNN)**
+
+Product name — Product brief description.
+>>>>>>> Stashed changes
 
 
 
